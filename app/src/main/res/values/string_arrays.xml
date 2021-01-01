@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+        <item>ဝိနယ</item>
+        <item>သုတ္တန္တ</item>
+        <item>အဘိဓမ္မ</item>
+    </string-array>
+</resources>
